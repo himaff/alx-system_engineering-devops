@@ -1,0 +1,15 @@
+total 52
+-rwxr--r-- 1 root root  32 Jun 27 15:53 0-hello_world
+-rwxr--r-- 1 root root  48 Jun 27 19:54 10-no_more_js
+-rwxr--r-- 1 root root  42 Jun 27 20:08 11-directories
+-rwxr--r-- 1 root root  28 Jun 27 16:00 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jun 27 16:04 2-hellofile
+-rwxr--r-- 1 root root  39 Jun 27 16:10 3-twofiles
+-rwxr--r-- 1 root root  29 Jun 27 16:12 4-lastlines
+-rwxr--r-- 1 root root  29 Jun 27 16:15 5-firstlines
+-rwxr--r-- 1 root root  40 Jun 27 16:56 6-third_line
+-rwxr--r-- 1 root root  88 Jun 27 19:17 7-file
+-rwxr--r-- 1 root root  36 Jun 27 19:34 8-cwd_state
+-rwxr--r-- 1 root root  37 Jun 27 19:38 9-duplicate_last_line
+-rw-r--r-- 1 root root 857 Jun 27 19:38 iacta
+-rw-r--r-- 1 root root   0 Jun 27 20:14 sort
